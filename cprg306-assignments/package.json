@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "latest",
+    "encoding": "^0.1.13",
+    "firebase": "^10.6.0",
+    "next": "^14.0.2",
     "react": "latest",
     "react-dom": "latest"
   },
